@@ -1,4 +1,4 @@
-# hackhive2024 Team 25 -- Good Sole
+#Good Sole
 
 ## Run Instructions
 Ensure the db.env, cacert.pem, and app.py files are all within the same folder.  The Flask API can be started by running the app.py file.  This will launch it on a localhost server (URI placed in the terminal after successful start)
