@@ -1,22 +1,23 @@
-##👟 Good Sole – Cloud-Based Inventory Management
-🚀 Run Instructions
-Make sure the following files are in the same folder:
-✅ db.env
-✅ cacert.pem
-✅ app.py
+# 👟 Good Sole – Cloud-Based Inventory Management  
 
-Start the Flask API by running app.py 🏃‍♂️💨. This will launch the server, and the terminal will display the localhost URI after a successful start.
+## 🚀 Run Instructions  
+Make sure the following files are in the same folder:  
+✅ `db.env`  
+✅ `cacert.pem`  
+✅ `app.py`  
 
 💡 Inspiration
-Small business owners often struggle with expensive and complex inventory management systems. We built Good Sole to provide an affordable, cloud-powered, and efficient solution! 💼☁️ Our app optimizes point-of-sale systems while taking advantage of Microsoft Azure’s cloud capabilities, including an Azure PostgreSQL flexible server.
+Small business owners often struggle with expensive and complex inventory management systems. We built Good Sole to provide an affordable, cloud-powered, and efficient solution! 💼☁️
+
+Our app optimizes point-of-sale systems while taking advantage of Microsoft Azure’s cloud capabilities, including an Azure PostgreSQL flexible server.
 
 🔥 What It Does
 Good Sole is a smart inventory management system that:
+
 🛒 Manages stock levels seamlessly.
 📊 Provides transaction insights with barcode-based tracking.
 🔎 Offers customizable search options for customer preferences.
 📱 Runs as a web-based app for cross-compatibility on different devices and hardware.
-
 Whether you're assisting customers or managing your business, Good Sole ensures efficiency and affordability! 💪
 
 🛠️ How We Built It
@@ -30,7 +31,6 @@ Cloud integration was way harder than expected! 🌩️ We had to pivot last min
 🎉 Teamwork makes the dream work! Our team came from diverse backgrounds, and everyone contributed in meaningful ways.
 🎨 From zero to hero! We started with minimal Flask and web dev knowledge and still built an awesome project!
 🚀 Cloud learning experience! We tackled Azure integration despite never using it before!
-
 📚 What We Learned
 ✅ Web development and Flask from scratch!
 ✅ The power (and pain 😅) of Azure cloud services.
@@ -42,5 +42,4 @@ Cloud integration was way harder than expected! 🌩️ We had to pivot last min
 👨‍💻 Additional user testing for production readiness.
 ⚡ Further performance optimizations to scale efficiently.
 💰 Integration with payment systems for a full point-of-sale solution.
-
 We’re just getting started! Stay tuned for more updates. 🚀
